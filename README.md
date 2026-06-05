@@ -437,6 +437,7 @@ algorithms, knowledgebase and AI technology.
 * [Buffer](https://buffer.com)
 * [Buzz sumo](http://buzzsumo.com) - "Use our content insights to generate ideas, create high-performing content, monitor your performance and identify influencers."
 * [Castrick](https://castrickclues.com) - Find social media accounts with email, username and phone number
+* [CoreClaw](https://www.coreclaw.com/?utm_source=github&utm_medium=referral&utm_campaign=github&utm_term=&utm_id=github)- Extract Public Web Data.Get Results.
 * [Epieos](https://epieos.com) - Search for social accounts with e-mail and phone
 * [Geocreepy](http://www.geocreepy.com)
 * [Hootsuite](http://hootsuite.com)
